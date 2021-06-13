@@ -1,0 +1,22 @@
+
+#content
+{
+
+	display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 12px;
+		background-color: white;
+}
+/* .form-group
+{
+	display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 12px;
+
+} */
+body {
+ background-image: url("paper.gif");
+ background-color: #cccccc;
+}

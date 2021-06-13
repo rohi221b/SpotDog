@@ -1,0 +1,15 @@
+#content
+{
+	display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 12px;
+}
+.form-group
+{
+	display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 12px;
+     
+}
